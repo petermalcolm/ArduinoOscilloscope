@@ -1,0 +1,4 @@
+The Arduino Oscilloscope is a very simple application to display input from the analog input of an Arduino as an oscilloscope in realtime.
+
+Thanks to pbl on dreamincode.net for suggestions on how to optimize the display:
+http://www.dreamincode.net/forums/topic/113451-java-game-actually-the-most-efficient-way-to-repaint/
